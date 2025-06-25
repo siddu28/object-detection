@@ -35,9 +35,13 @@ This project integrates:
 
 The final output video will show bounding boxes around players with consistent IDs across frames.
 
-## Sample Screenshots
+## output videos
 
-(Add screenshots of your output video frames here)
+### using normal sort algorithm
+https://youtu.be/UdhYkg9f7wE
+
+### using deepsort
+https://youtu.be/shDivuiQ5GQ
 
 
 ## Limitations
