@@ -1,0 +1,6 @@
+opencv-python
+ipykernel
+ultralytics 
+scikit-image
+sort-tracker
+deep_sort_realtime
